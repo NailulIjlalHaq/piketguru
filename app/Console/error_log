@@ -1,0 +1,1 @@
+[04-Jan-2018 09:45:54 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home/alet9772/public_html/PresensiGuru/app/Console/Kernel.php on line 8

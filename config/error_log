@@ -1,0 +1,8 @@
+[04-Jan-2018 09:46:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/alet9772/public_html/PresensiGuru/config/excel.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/alet9772/public_html/PresensiGuru/config/excel.php on line 57
+[04-Jan-2018 09:46:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/alet9772/public_html/PresensiGuru/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/alet9772/public_html/PresensiGuru/config/database.php on line 16
